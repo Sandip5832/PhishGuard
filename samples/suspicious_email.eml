@@ -1,0 +1,17 @@
+From: security@example.com
+To: student@example.com
+Subject: Security Alert
+Date: Mon, 28 Sep 2026 10:05:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+We detected unusual activity on your account.
+
+Please verify your account to make sure your account remains secure.
+
+You should review your account activity soon.
+
+Regards,
+Security Team

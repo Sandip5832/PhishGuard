@@ -1,0 +1,21 @@
+From: Security Team <security@example-security.com>
+To: student@example.com
+Reply-To: verify@example-security-alert.com
+Subject: URGENT: Your account will be suspended
+Date: Thu, 24 Sep 2026 21:00:00 +0530
+MIME-Version: 1.0
+Authentication-Results: mail.example-security.com; spf=fail; dkim=fail; dmarc=fail
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your account has been suspended.
+
+Please verify your account immediately:
+
+http://example.com/verify
+http://192.168.1.100/login
+https://bit.ly/3Example
+
+Thank you,
+Security Team
